@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Byronic Libraries
+## Efforts in Scholarly Disambiguation, Visualization, and Network Analysis.
 
-You can use the [editor on GitHub](https://github.com/skwebb/Byronic-Libraries/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Byronic Libraries is a project in which Lord Byron's Libraries are recreated digitally. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lord Byron, the most famous poet of his day and the first modern celebrity, was a lover of books. He was also quite the traveller, which led to his personal library being advertised in a public auction. Three library auction lists exist from three distinct years in Byron's life (the last actually posthumous). To a researcher, these books are signifiers of Byron's literary interests. To any researcher, such a statement is not without many caveats that are, in and of themselves, valuable episodes of scholarly insight and discerning at work. 
 
-### Markdown
+The following project site and blog posts will highlight these dilemmas as they present themselves in the course of this project. The aim of such accounting is two-fold: to provide a record for this researcher as these problems reappear and to provide other researchers with the rationale used herein should they encounter similar problems in their project. Surely, in some instances, others will disagree with the choices made, but at least the underlying reasoning will be clear from these posts. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skwebb/Byronic-Libraries/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### The aforementioned Byron Library sales lists are as follows:
+- 1813
+    - At the time of this sales list, Byron thought he might leave England for the Continent or the Orient. This never ended up happening, though the auction list being drafted is testament to his seriousness in considering such a venture. Moreover, it is worth noting that this list was never publicized, to our knowledge nothing was sold at this time, and many of its items reappear in the following list of 1816.
+- 1816
+    - This list represents the first actual sales of Byron's library, wherein we have actual buyers of the lots and the prices that they paid which can be linked to Byron. After this Byron leaves England, never to return alive to his homeland. 
+- 1826
+    - The final listing of Byron's books represents his remaining library at the time of his death, and all the books that he either took with him upon leaving England or acquired on the Continent. Especially in the case of this list, any books with publication dates after 1816 necessarily represent new acquisitions. 
+    
