@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Byronic Libraries Blog</h1>
+<p>Posts inspired by the scholarly work of researching, disambiguating, networking, and visualizing Byron's Libraries</p>
+</body>
+</html>
